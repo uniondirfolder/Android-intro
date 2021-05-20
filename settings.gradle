@@ -1,3 +1,4 @@
 rootProject.name = "Android-path"
 include ':app'
 include ':app:nvv_1'
+include ':app:nvv_2'
